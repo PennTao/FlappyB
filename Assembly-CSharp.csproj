@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Bird Script\BirdScript.cs" />
+     <Compile Include="Assets\Scripts\Camera Script\CameraScript.cs" />
      <None Include="Assets\WebPlayerTemplates\SoomlaConfig\android\android-profile-google\google-play-services_lib\res\drawable\common_signin_btn_text_dark.xml" />
      <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ml-rIN\common_strings.xml" />
      <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-pt-rBR\common_strings.xml" />
